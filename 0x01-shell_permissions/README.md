@@ -15,3 +15,4 @@ Write a script that prints the effective username of the current user
 14. Owner and group
 15. Symbolic links
 16. If only
+17. Star Wars
