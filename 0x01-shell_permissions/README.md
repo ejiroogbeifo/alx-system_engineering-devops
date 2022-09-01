@@ -3,3 +3,4 @@ Write a script that prints the effective username of the current user
 3. New owner
 4. Empty!
 5-execute!
+6. Multiple permissions
