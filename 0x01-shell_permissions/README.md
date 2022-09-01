@@ -9,3 +9,4 @@ Write a script that prints the effective username of the current user
 9. John Doe
 10. Look in the mirror
 11. Directories
+12. More directories
