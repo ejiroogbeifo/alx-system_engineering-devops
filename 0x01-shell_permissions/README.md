@@ -6,3 +6,4 @@ Write a script that prints the effective username of the current user
 6. Multiple permissions
 7. Everybody!
 8-James_Bond!
+9. John Doe
