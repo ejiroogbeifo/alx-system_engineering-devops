@@ -4,3 +4,4 @@ Write a script that prints the effective username of the current user
 4. Empty!
 5-execute!
 6. Multiple permissions
+7. Everybody!
