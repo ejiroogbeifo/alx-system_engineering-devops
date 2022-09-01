@@ -1,0 +1,4 @@
+#!/bin/bash
+chgrp school hello
+chgrp school hello
+chgrp school hello
