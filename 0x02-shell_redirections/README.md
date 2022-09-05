@@ -5,3 +5,4 @@ Display the content of /etc/passwd and /etc/hosts
 Display the last 10 lines
 Display the first 10 lines
 Write a script that displays the third line of the file iacta
+8-cwd_state
