@@ -7,3 +7,4 @@ Display the first 10 lines
 Write a script that displays the third line of the file iacta
 8-cwd_state
 9-duplicate_last_line
+Write a script that deletes all the regular files (not the directories) with a .js
